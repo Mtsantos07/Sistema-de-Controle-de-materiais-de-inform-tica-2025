@@ -1,4 +1,4 @@
-criar-conta
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -60,7 +60,7 @@ criar-conta
     border-radius: 5px 5px 0 0;
   }
 
-  / }
+  
 </style>
 </head>
 <body>
